@@ -1,5 +1,4 @@
 #Name : Reshma Sri Murakonda
-#Student ID : 101282055
 
 #Importing SYS
 import sys
